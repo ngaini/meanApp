@@ -1,3 +1,4 @@
+//noinspection JSAnnotator
 export function routerConfig ($stateProvider, $urlRouterProvider) {
   'ngInject';
   $stateProvider
